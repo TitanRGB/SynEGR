@@ -3,6 +3,6 @@
 <br/>
 <figure><table>
 <thead>
-<tr><th><h2><a href='https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify'>GWERP2U700_Modify</a></h2><br><p>Server power supply GW-ERP2U700&#39;s MOD refit to full module.</p><br><a href="https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify"><img align="left" src="https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify/releases/download/v1.2/readme-pcb.png"></img></a></th></tr></thead>
+<tr><th><h2><a href='https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify'>GWERP2U700_Modify</a></h1><br><h3>Server power supply GW-ERP2U700&#39;s MOD refit to full module.</h3><br><a href="https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify"><img align="middle" src="https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify/releases/download/v1.2/readme-pcb.png"></img></a></th></tr></thead>
 <tbody></tbody>
 </table></figure>
