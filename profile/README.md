@@ -2,5 +2,5 @@
 <h4>自用的硬件项目。| Self-use electronic engeneering projects.</h4></span>
 <br/>
 <h2><a href='https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify'>GWERP2U700_Modify</a></h2>
-<a href="https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify"><p>Server power supply GW-ERP2U700's MOD refit to full module.</p></a>
+<p>Server power supply GW-ERP2U700's MOD refit to full module.</p>
 <a href="https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify"><img align="left" src="https://github.com/SynEGR/PowerSupply_GWERP2U700_Modify/releases/download/v1.2/readme-pcb.png"></img></a>
