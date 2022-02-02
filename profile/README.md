@@ -4,7 +4,7 @@
 <h1>Recent Work:</h1>
 <figure><table>
 <thead>
-<tr><th><h2><a href='https://github.com/SynEGR/LogitechG502Reverse'>Logitech G502 Reverse</a></h1><h3>In order to facilitate modification, copied G502 motherboard's PCB layout.</h3><a href="https://github.com/SynEGR/LogitechG502Reverse"><img align="middle" src="https://github.com/SynEGR/LogitechG502Reverse/releases/download/v1.0/readme-pcb.png"></img></a></th></tr></thead>
+<tr><th><h2><a href='https://github.com/SynEGR/LogitechG502Reverse'>Logitech G502 Reverse</a></h1><h3>In order to facilitate modification, copied G502 motherboard's PCB layout.</h3><a href="https://github.com/SynEGR/LogitechG502Reverse"><img align="middle" src="https://github.com/SynEGR/LogitechG502Reverse/releases/download/v1.1/readme-pcb.png"></img></a></th></tr></thead>
 </table></figure>
 <figure><table>
 <thead>
